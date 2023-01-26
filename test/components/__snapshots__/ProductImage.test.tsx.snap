@@ -5,7 +5,7 @@ exports[`ProductImage debe de mostrar el componente con la imagen del producto 1
   className="productCard undefined"
 >
   <img
-    alt="Coffe Mug"
+    alt="Coffe Mug!"
     className="productImg undefined"
     src="./coffee-mug.png"
   />
@@ -14,7 +14,7 @@ exports[`ProductImage debe de mostrar el componente con la imagen del producto 1
 
 exports[`ProductImage debe mostrar el componente correctamente con la imagen personalizada 1`] = `
 <img
-  alt="Coffe Mug"
+  alt="Coffe Mug!"
   className="productImg custom-class"
   src="https://hola.jpg"
 />
