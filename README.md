@@ -4,6 +4,8 @@ Este es un paquete de pruebas de despliegue en NPM
 
 ## Ejemplo
 
+## npm i -D identity-obj-proxy
+
 ```
 import {ProductImage, ProductCard, ProductTitle, ProductButtons } from 'jc-product-card';
 ```
